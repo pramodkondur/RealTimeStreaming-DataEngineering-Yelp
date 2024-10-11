@@ -58,7 +58,7 @@ Why Spark? We initialize Apache Spark, as it is a big data processing engine tha
 
 - We open it to check if it runs
 
-![img](images/SparkInitialized.png)
+![img](images/SparkPort.png)
 
 ### 3) Fetch Dataset
 - Data got from Yelp Open data portal, we have fetched their data which is around 8 GB uncompressed and we utilize the reviews dataset which is around 5 GB
